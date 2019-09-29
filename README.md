@@ -31,5 +31,3 @@ Project structure:
 Each component will have their own separate style sheets.
 <br>
 Public Rest API used: https://restcountries.eu/rest/v2/all
-<br>
-Solution for the 1st question CSS Wizardry, is included in this project.
